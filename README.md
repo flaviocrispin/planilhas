@@ -10,4 +10,4 @@ O algoritmo foi feito inicialmente no Jupyter Notebook e finalizado no pycharm. 
 foram usadas as bibliotecas do python: Pandas e Numpy
 
 ## Objetivo
-organizar as colunas e tabelas do arquivo em excel para um dataset onde as colunas são as variáveis e as linhas como cada pedido.
+organizar as colunas e tabelas do arquivo orginal em excel para um dataset onde as colunas são as variáveis e as linhas como cada pedido.

@@ -7,6 +7,7 @@ Esse algoritmo foi feito para otimizar as planilhas de uma empresa de distribui�
 O algoritmo foi feito inicialmente no Jupyter Notebook e finalizado no pycharm. Posteriormente foi gerado um executável com o pyinstaller.
 
 ## Bibliotecas
-foram usadas as bibliotecas do python: \n
-Pandas\n
-Numpy
+foram usadas as bibliotecas do python: Pandas e Numpy
+
+## Objetivo
+organizar as colunas e tabelas do arquivo em excel para um dataset onde as colunas são as variáveis e as linhas como cada pedido.

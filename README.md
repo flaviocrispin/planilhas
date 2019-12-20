@@ -7,6 +7,6 @@ Esse algoritmo foi feito para otimizar as planilhas de uma empresa de distribui√
 O algoritmo foi feito inicialmente no Jupyter Notebook e finalizado no pycharm. Posteriormente foi gerado um execut√°vel com o pyinstaller.
 
 ## Bibliotecas
-foram usadas as bibliotecas do python: 
-Pandas
+foram usadas as bibliotecas do python: \n
+Pandas\n
 Numpy
